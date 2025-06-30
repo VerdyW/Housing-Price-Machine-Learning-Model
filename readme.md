@@ -16,12 +16,12 @@ The workflow includes:
 
 ## 📁 Dataset
 
-- Source: [Kaggle Housing Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction))
+- Source: [Kaggle Housing Dataset](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 - Contains features such as number of rooms, area, location, lot size, and price.
 
 ## ⚙️ Tools & Libraries
 
-- **Python 3.x**
+- **Python**
 - **pandas**, **numpy** – data manipulation
 - **scikit-learn** – machine learning models and utilities
 - **xgboost** – for gradient boosting
